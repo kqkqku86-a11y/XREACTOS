@@ -5,35 +5,35 @@ list(APPEND FONT_FILES
     arialbi.ttf
     ariali.ttf
     ariblk.ttf
-    comic.ttf
-    comicbd.ttf
+    #comic.ttf
+    #comicbd.ttf
     cour.ttf
     courbd.ttf
     courbi.ttf
     couri.ttf
-    framd.ttf
-    framdit.ttf
+    #framd.ttf
+    #framdit.ttf
     FreeSans.ttf
     FreeSansBold.ttf
     FreeSansBoldOblique.ttf
     FreeSansOblique.ttf
-    FSEX301.ttf
-    FSEX301-L2.ttf
-    georgia.ttf
-    georgiab.ttf
-    georgiai.ttf
-    georgiaz.ttf
-    lucon.ttf
-    Marlett.ttf
-    micross.ttf
-    pala.ttf
-    palab.ttf
-    palabi.ttf
-    palai.ttf
-    SourceSansPro-Regular.ttf
-    SourceSansPro-Bold.ttf
-    SourceSansPro-BoldIt.ttf
-    SourceSansPro-It.ttf
+    #FSEX301.ttf
+    #FSEX301-L2.ttf
+    #georgia.ttf
+    #georgiab.ttf
+    #georgiai.ttf
+    #georgiaz.ttf
+    #lucon.ttf
+    #Marlett.ttf
+    #micross.ttf
+    #pala.ttf
+    #palab.ttf
+    #palabi.ttf
+    #palai.ttf
+    #SourceSansPro-Regular.ttf
+    #SourceSansPro-Bold.ttf
+    #SourceSansPro-BoldIt.ttf
+    #SourceSansPro-It.ttf
     #ssee874.fon # to be added (CORE-16165 and CORE-16166)
     #ssee1255.fon # to be added (CORE-16165 and CORE-16166)
     #ssee1256.fon # to be added (CORE-16165 and CORE-16166)
@@ -49,15 +49,15 @@ list(APPEND FONT_FILES
     timesbd.ttf
     timesbi.ttf
     timesi.ttf
-    trebuc.ttf
-    trebucbd.ttf
-    trebucbi.ttf
-    trebucit.ttf
+    #trebuc.ttf
+    #trebucbd.ttf
+    #trebucbi.ttf
+    #trebucit.ttf
     UniVGA16.ttf
-    verdanab.ttf
-    verdanaz.ttf
-    verdanai.ttf
-    verdana.ttf
+    #verdanab.ttf
+    #verdanaz.ttf
+    #verdanai.ttf
+    #verdana.ttf
     #vgaoem.fon # to be added (CORE-17327)
     wingding.ttf)
 
