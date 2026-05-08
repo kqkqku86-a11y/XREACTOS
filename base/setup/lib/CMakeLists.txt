@@ -1,5 +1,8 @@
 
-add_definitions(${I18N_DEFS})
+# Only en-US.h exists under base/setup/lib/lang/ in this lightweight tree,
+# so restrict setuplib to LANGUAGE_EN_US instead of using ${I18N_DEFS},
+# which would request includes/entries for all languages.
+add_definitions(-DLANGUAGE_EN_US)
 if(_WINKD_)
     add_definitions(-D_WINKD_)
 endif()
